@@ -1,5 +1,11 @@
-# 🌟 Hi there! 👋 I'm **Mulugeta Girmay**  
-🌟 *Frontend Developer | Cybersecurity*
+<h1 align="center">🌟 Welcome! 👋 I'm <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank">Mulugeta Girmay</a> 🌟</h1>
+<h3 align="center">Frontend Developer | Cybersecurity</h3>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding GIF">
+</div>
 
 ---
 
@@ -9,17 +15,12 @@
 - 🌍 Dedicated to creating secure, user-friendly web applications  
 - 🌱 Currently enhancing my skills in:
   - **Advanced React & Next.js**
-  - **Web Security & Penetration Testing**  
+  - **Web Security & Ethical Hacking Techniques**  
 - 💡 Exploring the intersection of **secure web development** and **user experience**  
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
-
-## 🛠 Skills & Expertise
-
+## 🛠️ Tech Stack & Tools
 <div align="center">
 
 | **Languages**         | **Frameworks & Libraries** | **Development Tools** | **Cybersecurity Tools** |
@@ -35,24 +36,34 @@
 
 </div>
 
-
 ---
 
-## 🚀 Featured Projects
-### [BiteWise Meal Prep Website](https://github.com/username/meal-prep)  
+
+
+## 🌟 Featured Projects
+### 🥗 [BiteWise Meal Prep Website](https://github.com/username/meal-prep)  
 A modern web app for meal planning, calorie tracking, and personalized recipes.  
-**Features**: Dynamic recipes, calorie tracker, advanced UI  
-**Technologies**: React, Bootstrap, Spoonacular API
+**✨ Highlights**:  
+- Dynamic recipes  
+- Advanced calorie tracker  
+- Modern UI/UX  
 
-### [Tank Game](https://github.com/username/tank-game)  
-An arcade-style two-player game with engaging animations and sound effects.  
-**Features**: Split-screen view, bullet collisions, power-ups  
-**Technologies**: Java, OOP Design Patterns
+**🛠️ Technologies**: React, Bootstrap, USDA API
 
 ---
 
-## 📈 GitHub Stats
+### 🎮 [Tank Game](https://github.com/username/tank-game)  
+A multiplayer arcade-style tank shooter game with immersive gameplay.  
+**✨ Highlights**:  
+- Split-screen mode  
+- Power-ups and interactive environments  
+- Realistic animations and sound effects  
 
+**🛠️ Technologies**: Java, OOP Design Patterns
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
 
 <table>
@@ -70,18 +81,17 @@ An arcade-style two-player game with engaging animations and sound effects.
 
 </div>
 
-
 ---
 
-## 🎯 Goals for 2025
-- 🛡 Obtain certifications in **CompTIA Security+** and **Certified Ethical Hacker (CEH)**  
-- 💼 Secure a summer internship in **Frontend Development** or **Cybersecurity**  
+## 🎯 2025 Goals
+- 📜 Earn certifications in **CompTIA Security+** and **Certified Ethical Hacker (CEH)**  
 - 🌐 Build projects focusing on **Web Security** and **Secure Authentication**  
+- 💼 Land a **Frontend Development** or **Cybersecurity** internship  
 
 ---
 
-## 📬 Connect with Me  
-- **LinkedIn**: [linkedin.com/in/mulugeta-girmay](https://www.linkedin.com/in/mulugeta-girmay-abb016221/)  
-- **Email**: [mulugetaweldekiros70@gmail.com](mailto:mulugetaweldekiros70@gmail.com)  
-
----
+## 📬 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mulugetaweldekiros70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
