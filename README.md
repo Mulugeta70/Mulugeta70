@@ -41,7 +41,7 @@
 
 
 ## 🌟 Featured Projects
-### 🥗 [BiteWise Meal Prep Website](https://github.com/username/meal-prep)  
+### 🥗 [BiteWise Meal Prep Website](https://github.com/Mulugeta70/BiteWise-Meal-Prep-Website)  
 A modern web app for meal planning, calorie tracking, and personalized recipes.  
 **✨ Highlights**:  
 - Dynamic recipes  
