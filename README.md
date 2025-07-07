@@ -52,16 +52,7 @@ A modern web app for meal planning, calorie tracking, and personalized recipes.
 
 ---
 
-### 🎮 [Tank Game](https://github.com/username/tank-game)  
-A multiplayer arcade-style tank shooter game with immersive gameplay.  
-**✨ Highlights**:  
-- Split-screen mode  
-- Power-ups and interactive environments  
-- Realistic animations and sound effects  
 
-**🛠️ Technologies**: Java, OOP Design Patterns
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
