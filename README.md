@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science student** at San Francisco State University  
+- 🎓 **Computer Science Graduate** at San Francisco State University  
 - 💻 Passionate about **Frontend Development** and **Cybersecurity**  
 - 🌍 Dedicated to creating secure, user-friendly web applications  
 - 🌱 Currently enhancing my skills in:
@@ -48,40 +48,20 @@ A modern web app for meal planning, calorie tracking, and personalized recipes.
 - Advanced calorie tracker  
 - Modern UI/UX  
 
-**🛠️ Technologies**: React, Bootstrap, USDA API
+**Tech Used**  
+`React` • `Bootstrap` • `USDA API`
 
 ---
 
 
 
 ## 📊 GitHub Stats
-<div align="center">
+<table> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mulugeta70&theme=monokai" alt="Stats"/> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mulugeta70&theme=monokai&utcOffset=-8" alt="Productivity"/> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulugeta70&theme=monokai" alt="Details"/> </td> </tr> </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mulugeta70&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugeta70&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugeta70&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
-## 🎯 2025 Goals
-- 📜 Earn certifications in **CompTIA Security+** and **Certified Ethical Hacker (CEH)**  
-- 🌐 Build projects focusing on **Web Security** and **Secure Authentication**  
-- 💼 Land a **Frontend Development** or **Cybersecurity** internship  
-
----
-
-## 📬 Connect with Me
+## 🤝 Let’s Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mulugetaweldekiros70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
