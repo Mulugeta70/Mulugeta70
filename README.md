@@ -1,68 +1,250 @@
-<h1 align="center">🌟 Welcome! 👋 I'm <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank">Mulugeta Girmay</a> 🌟</h1>
-<h3 align="center">Frontend Developer | Cybersecurity</h3>
-
----
-
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Mulugeta%20Girmay&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
 
----
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+secure+%26+beautiful+web+experiences+%F0%9F%94%90;CS+Graduate+%40+San+Francisco+State+University+%F0%9F%8E%93;React+%7C+Next.js+%7C+Web+Security+%7C+Ethical+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</div>
 
-## 👨‍💻 About Me
-- 🎓 **Computer Science Graduate** at San Francisco State University  
-- 💻 Passionate about **Frontend Development** and **Cybersecurity**  
-- 🌍 Dedicated to creating secure, user-friendly web applications  
-- 🌱 Currently enhancing my skills in:
-  - **Advanced React & Next.js**
-  - **Web Security & Ethical Hacking Techniques**  
-- 💡 Exploring the intersection of **secure web development** and **user experience**  
+<br/>
 
----
+<!-- SOCIAL BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:mulugetaweldekiros70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://github.com/Mulugeta70">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mulugeta70&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-## 🛠️ Tech Stack & Tools
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+```yaml
+name: Mulugeta Girmay
+location: San Francisco, CA
+education: B.S. Computer Science @ San Francisco State University
+
+current_focus:
+  - Advanced React & Next.js Development
+  - Web Security & Ethical Hacking
+  - Building Secure, User-Friendly Web Applications
+
+interests:
+  - Bridging Frontend Development with Cybersecurity
+  - Creating Accessible & Performant UIs
+  - Open Source Contribution
+
+fun_fact: "I break things to make them more secure 🔐"
+```
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
 <div align="center">
 
-| **Languages**         | **Frameworks & Libraries** | **Development Tools** | **Cybersecurity Tools** |
-|------------------------|----------------------------|------------------------|--------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=for-the-badge&logo=nmap&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-346A9C?style=for-the-badge&logo=metasploit&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![SQLMap](https://img.shields.io/badge/SQLMap-F7DF1E?style=for-the-badge&logo=sql&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) | ![Snort](https://img.shields.io/badge/Snort-800020?style=for-the-badge&logo=snort&logoColor=white) |
+### 💻 Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css&theme=dark&perline=8" />
+  </a>
+</p>
+
+### ⚡ Frameworks & Libraries
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind,sass,graphql&theme=dark&perline=8" />
+  </a>
+</p>
+
+### 🛠️ Dev Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,linux,heroku&theme=dark&perline=8" />
+  </a>
+</p>
+
+### 🔒 Cybersecurity Arsenal
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-FC4C4C?style=for-the-badge&logo=snort&logoColor=white" />
+</p>
 
 </div>
 
----
+<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
 
 ## 🌟 Featured Projects
-### 🥗 [BiteWise Meal Prep Website](https://github.com/Mulugeta70/BiteWise-Meal-Prep-Website)  
-A modern web app for meal planning, calorie tracking, and personalized recipes.  
-**✨ Highlights**:  
-- Dynamic recipes  
-- Advanced calorie tracker  
-- Modern UI/UX  
 
-**Tech Used**  
-`React` • `Bootstrap` • `USDA API`
-
----
-
-
-
-## 📊 GitHub Stats
-<table> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mulugeta70&theme=monokai" alt="Stats"/> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mulugeta70&theme=monokai&utcOffset=-8" alt="Productivity"/> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulugeta70&theme=monokai" alt="Details"/> </td> </tr> </table>
-
-
----
-
-## 🤝 Let’s Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mulugetaweldekiros70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<a href="https://github.com/Mulugeta70/BiteWise-Meal-Prep-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mulugeta70&repo=BiteWise-Meal-Prep-Website&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+</a>
+
 </div>
+
+<br/>
+
+> ### 🥗 BiteWise — Meal Prep Website
+> A modern web app for **meal planning**, **calorie tracking**, and **personalized recipes**.
+> 
+> `React` • `Bootstrap` • `USDA API`
+> 
+> ✨ Dynamic recipe generation &nbsp;|&nbsp; 📊 Advanced calorie tracker &nbsp;|&nbsp; 🎨 Modern UI/UX
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- STREAK STATS -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=mulugeta70&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="60%" />
+</p>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS (reliable, no rate limiting issues) -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mulugeta70&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mulugeta70&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mulugeta70&theme=github_dark&utcOffset=-8" width="32%" />
+</p>
+
+<br/>
+
+<!-- PROFILE DETAILS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mulugeta70&theme=github_dark" width="98%" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mulugeta70&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="98%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<!-- 
+  ⚠️ TO ACTIVATE: Set up the GitHub Action below, then uncomment the image:
+  
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
+    </picture>
+  </div>
+-->
+
+<details>
+<summary>⚙️ <b>How to activate the Snake Animation</b> (click to expand)</summary>
+<br/>
+
+1. Make sure you have a repo named **`Mulugeta70`** (same as your GitHub username)
+2. Create the file `.github/workflows/snake.yml` in that repo with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Mulugeta70
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to your repo **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"**
+4. Go to **Actions** tab → click **"Generate Snake"** → **"Run workflow"**
+5. Once successful, **uncomment the image block** above in your README
+6. The snake SVG will display and auto-update every 12 hours!
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mulugeta-girmay-abb016221/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:mulugetaweldekiros70@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
