@@ -163,8 +163,6 @@ fun_fact: "I break things to make them more secure 🔐"
 
 ## 🐍 Contribution Snake
 
-<!-- 
-  ⚠️ TO ACTIVATE: Set up the GitHub Action below, then uncomment the image:
   
   <div align="center">
     <picture>
@@ -173,53 +171,6 @@ fun_fact: "I break things to make them more secure 🔐"
       <img alt="github-snake" src="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
     </picture>
   </div>
--->
-
-<details>
-<summary>⚙️ <b>How to activate the Snake Animation</b> (click to expand)</summary>
-<br/>
-
-1. Make sure you have a repo named **`Mulugeta70`** (same as your GitHub username)
-2. Create the file `.github/workflows/snake.yml` in that repo with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Mulugeta70
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to your repo **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"**
-4. Go to **Actions** tab → click **"Generate Snake"** → **"Run workflow"**
-5. Once successful, **uncomment the image block** above in your README
-6. The snake SVG will display and auto-update every 12 hours!
-
-</details>
 
 <br/>
 
