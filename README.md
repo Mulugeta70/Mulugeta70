@@ -6,7 +6,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+secure+%26+beautiful+web+experiences+%F0%9F%94%90;CS+Graduate+%40+San+Francisco+State+University+%F0%9F%8E%93;React+%7C+Next.js+%7C+Web+Security+%7C+Ethical+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Building+secure+%26+beautiful+web+experiences+%F0%9F%94%90;CS+Graduate+%40+San+Francisco+State+University+%F0%9F%8E%93;React+%7C+Next.js+%7C+Web+Security+%7C+Ethical+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -112,7 +112,7 @@ fun_fact: "I break things to make them more secure 🔐"
 
 <br/>
 
-> ### 🥗 BiteWise — Meal Prep Website
+> ### [🥗 BiteWise — Meal Prep Website](https://github.com/Mulugeta70/BiteWise-Meal-Prep-Website)
 > A modern web app for **meal planning**, **calorie tracking**, and **personalized recipes**.
 > 
 > `React` • `Bootstrap` • `USDA API`
@@ -136,7 +136,7 @@ fun_fact: "I break things to make them more secure 🔐"
 
 <br/>
 
-<!-- PROFILE SUMMARY CARDS (reliable, no rate limiting issues) -->
+<!-- PROFILE SUMMARY CARDS -->
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mulugeta70&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mulugeta70&theme=github_dark" width="32%" />
@@ -163,14 +163,13 @@ fun_fact: "I break things to make them more secure 🔐"
 
 ## 🐍 Contribution Snake
 
-  
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
-    </picture>
-  </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mulugeta70/Mulugeta70/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br/>
 
